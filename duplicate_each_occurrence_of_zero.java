@@ -23,11 +23,6 @@ public class duplicate_each_occurrence_of_zero {
             System.out.print(" , "+ arr[i]);
         }
 
-//        int arr2[] ={1,2,3};
-//        for(int index : arr2){
-//            System.out.print(" , "+ arr2[index]);
-//
-//        }
 
 
 
